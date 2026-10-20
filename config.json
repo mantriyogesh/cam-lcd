@@ -1,0 +1,14 @@
+{
+  "title": "ESP32-P4-EYE Camera on LCD",
+  "welcome": "welcome.md",
+  "examples": "Workshop",
+  "start": "builtin/cam-lcd",
+  "settings": {
+    "fixed": {
+      "idfweb.targets.visible": ["esp32p4"],
+      "idfweb.targets.default": "esp32p4",
+      "idfweb.welcome.folders": false,
+      "idfweb.examples.idf.offered": false
+    }
+  }
+}

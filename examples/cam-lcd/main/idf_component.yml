@@ -1,0 +1,3 @@
+dependencies:
+  idf: ">=5.4"
+  espressif/esp32_p4_eye: "^2.0.2"
